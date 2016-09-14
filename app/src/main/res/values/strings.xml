@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Toutiao</string>
+
+
+---------------菜单栏 字体
+    <string name="menu_shouye">首页</string>
+    <string name="menu_movie">视频</string>
+    <string name="menu_favorite">收藏</string>
+    <string name="menu_mine">我的</string>
+
+
+</resources>
